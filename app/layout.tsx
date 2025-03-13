@@ -103,7 +103,7 @@ export default function RootLayout({
                   <ul className="space-y-2">
                     <li className="text-pink-200">
                     <a
-  href="https://wa.me/0772264913?text=Hello%20I%20am%20interested%20in%20your%20services"
+  href="https://wa.me/212772264913?text=Hello%20I%20am%20interested%20in%20your%20services"
   target="_blank"
   rel="noopener noreferrer"
   className="hover:text-white"

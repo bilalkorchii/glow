@@ -24,6 +24,7 @@ export default function ProductDetail({ params }: { params: { id: string } }) {
     const message = encodeURIComponent(`Hello! I want to buy ${product.name} for ${product.price} DH.`)
     window.open(`https://wa.me/212772264913?text=${message}`, "_blank")
   }
+  
 
   if (!product) {
     return (
